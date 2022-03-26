@@ -129,7 +129,8 @@ export default {
                 this.partial = result;
             }
         }catch{
-            //ничего
+            this.partial = '';
+
         }
 
       },
