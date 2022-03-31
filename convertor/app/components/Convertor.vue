@@ -83,7 +83,7 @@ export default {
 
 <style lang="scss">
 .select-type {
-  background-color: rgb(235, 246, 255);
+  background-color: rgb(219, 225, 230);
 }
 .result-field {
   color: black;

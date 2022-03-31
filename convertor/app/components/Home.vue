@@ -58,8 +58,8 @@ Button {
     justify-content: flex-start;
 
     &__link {
-        color: #e0e2ff;
-        background-color: #e41515;
+        color: #000000;
+        background-color: #31cd12;
         margin: 0;
         padding: 0;
         width: 43%;
@@ -67,7 +67,7 @@ Button {
         border-radius: 17;
     
         &:active &.tapped {
-            color: #af1616;
+            color: #68dc5e;
         }
 
     }
