@@ -119,6 +119,11 @@
                   text-wrap="true"
                 />
                 <Label
+                  :text="user.firstname"
+                  class="list-group-item-heading"
+                  text-wrap="true"
+                />
+                <Label
                   :text="user.lastname"
                   class="list-group-item-heading"
                   text-wrap="true"
@@ -232,6 +237,9 @@ export default {
           console.log("___________error__error___");
         });
     },
+  },
+  mounted:{
+
   },
   computed: {
     messageDollar() {
