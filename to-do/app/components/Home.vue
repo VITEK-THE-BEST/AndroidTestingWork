@@ -177,7 +177,6 @@ TextField {
   color: white;
   background-color: #07bb58;
   padding: 10;
-
 }
 #button-remove {
   font-size: 12;
@@ -185,7 +184,6 @@ TextField {
   color: white;
   background-color: #c71515;
   padding: 10;
-
 }
 #button-return {
   font-size: 12;
@@ -193,7 +191,6 @@ TextField {
   color: white;
   background-color: #acd51a;
   padding: 10;
-
 }
 #active-task {
   font-size: 20;
